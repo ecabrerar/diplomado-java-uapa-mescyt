@@ -11,9 +11,9 @@ Introducir a los estudiantes al mundo de la programación Orientada a Objetos me
 
 ## Recursos
  * Fundamentos de Java
-  * [Paquetes más utilizados del API de Java](paquetes_del_API_Java.pdf)
-  * [Glosario de Términos Relacionados a Java](glosario_java.pdf)
-  * [Programación Orientada a Objetos en Java](POO_en_Java.pdf)
+   * [Paquetes más utilizados del API de Java](paquetes_del_API_Java.pdf)
+   * [Glosario de Términos Relacionados a Java](glosario_java.pdf)
+   * [Programación Orientada a Objetos en Java](POO_en_Java.pdf)
 
 #### Requerimientos
 * [Java Platform (JDK) 11.0.1 ó Superior](https://www.oracle.com/technetwork/java/javase/downloads/jdk11-downloads-5066655.html)
