@@ -22,7 +22,7 @@ public class TresTiposVariables {
      */
     public static void main(String[] args) {
          String variableLocal = "variable local ";
-        System.out.println("estatica = " + variableEstatica);
+        System.out.println("estatica = " + TresTiposVariables.variableEstatica);
         //System.out.println("variable instancia = " + variableInstancia);
         System.out.println("local = " + variableLocal);
         
