@@ -1,5 +1,7 @@
 package com.eudriscabrera.java.poo.basico.constructor;
 
+import com.eudriscabrera.java.poo.basico.estatico.MetodoEstatico;
+
 /**
  * 
  * @author ecabrerar
@@ -10,16 +12,20 @@ public class Product {
     private String description;
     private double price;
 
+    public Product(String code, String description) {
+        this.code = code;
+        this.description = description;
+    }
+
     public Product(String code, String description, double price) {
-
-        this.setCode(code);
-        this.setDescription(description);
-        this.setPrice(price);
+        this.code = code;
+        this.description = description;
+        this.price = MetodoEstatico.realizarDescuento(price);
     }
 
-    public Product(){
-        
-    }
+    public Product() {
+    }    
+    
 
     public String getCode() {
         return code;
@@ -44,4 +50,6 @@ public class Product {
     public void setPrice(double price) {
         this.price = price;
     }
+
+
 }

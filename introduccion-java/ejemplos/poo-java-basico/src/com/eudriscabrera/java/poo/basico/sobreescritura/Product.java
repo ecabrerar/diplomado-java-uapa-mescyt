@@ -47,10 +47,13 @@ public class Product {
     public void setPrice(double price) {
         this.price = price;
     }
+
     
     @Override
-    public String toString(){
-        return description;
+    public String toString() {
+        return "Product{" + "code=" + code + ", description=" + description + ", price=" + price + '}';
     }
+    
+   
     
 }

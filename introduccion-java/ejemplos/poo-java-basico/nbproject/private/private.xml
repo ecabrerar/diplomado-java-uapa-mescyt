@@ -5,5 +5,10 @@
         <group name="demo"/>
         <group name="UAPA"/>
         <group name="javase_fundamentos"/>
+        <group name="Labs">
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/poo-java-basico/src/com/eudriscabrera/java/poo/basico/abstracta/PruebaConceptoAbstracto.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/poo-java-basico/src/com/eudriscabrera/java/poo/basico/abstracta/Product.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/poo-java-basico/src/com/eudriscabrera/java/poo/basico/abstracta/Magazine.java</file>
+        </group>
     </open-files>
 </project-private>

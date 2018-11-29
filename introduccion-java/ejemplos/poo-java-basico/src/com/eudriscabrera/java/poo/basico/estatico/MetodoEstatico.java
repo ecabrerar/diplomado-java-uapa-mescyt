@@ -10,9 +10,13 @@ public class MetodoEstatico {
         return precio - (precio * 0.1); 
     }
     
+    public double inicializar(double descuento){
+        return realizarDescuento(descuento);
+    }
+    
     public static void main(String[] args){
       double precio = 120.98;
-      double precioFinal = realizarDescuento(precio);
+      double precioFinal = MetodoEstatico.realizarDescuento(precio);
       
       System.out.println(" Precio Final: "+precioFinal);
     }    

@@ -6,10 +6,14 @@
         <group name="UAPA"/>
         <group name="javase_fundamentos"/>
         <group name="Labs">
-            <file>file:/home/ecabrerar/Documents/PUCMM-MECSYT/diplomado-java-pucmm-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/DiaDeLaSemana.java</file>
-            <file>file:/home/ecabrerar/Documents/PUCMM-MECSYT/diplomado-java-pucmm-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/EncontrarNumeroMasGrande.java</file>
-            <file>file:/home/ecabrerar/Documents/PUCMM-MECSYT/diplomado-java-pucmm-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/ClaseArray.java</file>
-            <file>file:/home/ecabrerar/Documents/PUCMM-MECSYT/diplomado-java-pucmm-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/EncontrarNumeroMasPequeno.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/Arreglo.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/BucleforMejorado.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/EncontrarNumeroMasGrande.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/EncontrarNumeroMasPequeno.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/ClaseArray.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/ArregloII.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/ArregloDosDimensiones.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/ejemplos/arreglos%20y%20colecciones/javase_arreglo/src/com/eudriscabrera/java/arreglo/DiaDeLaSemana.java</file>
         </group>
     </open-files>
 </project-private>
