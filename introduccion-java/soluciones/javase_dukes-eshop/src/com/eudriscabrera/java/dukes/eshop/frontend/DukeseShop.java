@@ -6,6 +6,7 @@
 package com.eudriscabrera.java.dukes.eshop.frontend;
 
 import com.eudriscabrera.java.dukes.eshop.entidades.Celular;
+import com.eudriscabrera.java.dukes.eshop.entidades.DispositivoMovil;
 import com.eudriscabrera.java.dukes.eshop.entidades.SmartPhone;
 import com.eudriscabrera.java.dukes.eshop.entidades.Tableta;
 import java.text.ParseException;
@@ -34,10 +35,15 @@ public class DukeseShop {
 
         System.out.println("--------------Celulares-------------------");
 
+        double totalCelular = 0.0;
+
         for (Celular celular : celulares) {
 
             celular.imprimirInformacion();
+            totalCelular = totalCelular + celular.calcularPrecio();
         }
+
+        System.out.println(String.format("Total Precio Celular: RD $ %.2f", totalCelular));
 
         System.out.println("--------------SmartPhones-------------------");
 
@@ -50,9 +56,14 @@ public class DukeseShop {
         sps[0] = smartp;
         sps[1] = smartp1;
 
+        double totalSmartPhone = 0.0;
+
         for (SmartPhone sp : sps) {
             sp.imprimirInformacion();
+            totalSmartPhone = totalSmartPhone + sp.calcularPrecio();
         }
+
+        System.out.println(String.format("Total Precio SmartPhone: RD $ %.2f", totalSmartPhone));
 
         System.out.println("--------------Tabletas-------------------");
 
@@ -66,9 +77,15 @@ public class DukeseShop {
         tabletas[0] = tableta;
         tabletas[1] = tableta1;
 
+        double totalTableta = 0.0;
         for (Tableta tableta2 : tabletas) {
             tableta2.imprimirInformacion();
+            totalTableta = totalTableta + tableta2.calcularPrecio();
         }
+
+        System.out.println(String.format("Total Precio Tableta: RD $ %.2f", totalTableta));
+
+        
     }
 
 }

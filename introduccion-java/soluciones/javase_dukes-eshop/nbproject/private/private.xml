@@ -4,13 +4,9 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="demo"/>
         <group name="Labs">
-            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/entidades/SmartPhone.java</file>
-            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/entidades/DispositivoMovil.java</file>
-            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/entidades/Tableta.java</file>
             <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/utilidades/PrecioDB.java</file>
-            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/entidades/Celular.java</file>
             <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/frontend/DukeseShop.java</file>
-            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/interfaces/Conectividad2G.java</file>
+            <file>file:/home/ecabrerar/Documents/UAPA-MESCYT/diplomado-java-uapa-mescyt/introduccion-java/soluciones/javase_dukes-eshop/src/com/eudriscabrera/java/dukes/eshop/utilidades/Marca.java</file>
         </group>
     </open-files>
 </project-private>
