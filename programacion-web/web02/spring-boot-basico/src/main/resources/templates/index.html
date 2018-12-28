@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <title>Demo Spring Boot </title>
+       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <p>Reciba su saludo <a href="/saludo">aqu&iacute;</a></p>
+        
+        <form th:action="@{/saludo}" method="post">
+            <label>Nombre </label>
+            <input name="nombre" th:field="*{nombre}"/>
+            <input type="submit" value="Pulsar Aqui"/>
+            
+        </form>
+    </body>
+</html>
